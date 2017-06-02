@@ -1,2 +1,2 @@
-# DeepLearningProjects
-This is the repo for some deep learning projects I did.
+# AIProjects
+This repo contains several fun AI projects I did.
